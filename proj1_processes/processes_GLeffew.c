@@ -1,17 +1,4 @@
-/*
-Author:            Gabriel Leffew
-Major:             Computer Science
-Creation Date:     09/17/22
-Due Date:          09/22/22
-Course:            CSC328
-Professor Name:    Dr. Frye
-Assignment:        Processes HW#6
-Filename:          processes_GLeffew.c
-Purpose:           This program will accept a command line 
-                   argument stating the number of processes, 
-                   the program will then run that number of 
-                   sequential, then concurrent processes.
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
