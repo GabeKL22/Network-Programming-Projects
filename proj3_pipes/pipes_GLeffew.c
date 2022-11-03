@@ -1,16 +1,4 @@
-/*
-Author:            Gabriel Leffew
-Major:             Computer Science
-Creation Date:     10/15/22
-Due Date:          10/20/22
-Course:            CSC328
-Professor Name:    Dr. Frye
-Assignment:        pipes HW#8
-Filename:          pipes_GLeffew.c
-Purpose:           This program utilitzes pipes 
-                   to allow child and parent processes
-                   to read and write from eachother.
-*/
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>
